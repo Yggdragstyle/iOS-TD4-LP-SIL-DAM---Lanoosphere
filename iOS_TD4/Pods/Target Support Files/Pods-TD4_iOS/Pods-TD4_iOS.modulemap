@@ -1,0 +1,6 @@
+framework module Pods_TD4_iOS {
+  umbrella header "Pods-TD4_iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
